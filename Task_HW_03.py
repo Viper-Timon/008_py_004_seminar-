@@ -4,9 +4,6 @@
 
 
 
-
-# lst = input('Введите числа через пробел').split(' ') # для пользовательского ввода
-
 import random
 
 def fill_list(size: int, interval: int):

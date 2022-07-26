@@ -19,6 +19,7 @@ for i in range(0, k+1):
             lst.insert(0,f'{coef}x^{i}')
 
 for i in range(0,len(lst)):
+    
     if i==len(lst)-1:
         print(f'{lst[i]} = 0\n')
     else: print(f'{lst[i]} + ', end='')
