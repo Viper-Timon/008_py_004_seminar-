@@ -106,26 +106,3 @@ print(*(clean_look(l2)))
 print()
 print(*(clean_look(lst_res)))
 
-
-
-
-
-# for i in range(0,len(lst)):
-    
-#     if i==len(lst)-1:
-#         print(f'{lst[i]} = 0\n')
-#     else: print(f'{lst[i]} + ', end='')
-
-
-
-
-
-
-
-# for i in range(len(lst1),0,-1):
-
-# if f'x^{i}'==':
-#     print(i)
-
-# if lst1[i].find('-')==0:
-#     print(f'! {i}')
